@@ -1,0 +1,1 @@
+This directory contains the work performed in completing the "GitHub Repo Assignment" for Coding Dojo.
